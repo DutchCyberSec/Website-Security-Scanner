@@ -1,4 +1,4 @@
-Tool Description:
+Tool Description: a simple Flask web application that allows users to upload files and make HTTP requests
 
 The "Website Security Scanner," developed by Dutch Cyber Security, is a Python-based tool designed to scan websites for common vulnerabilities and provide insights into their security posture. It allows users to perform security assessments on their own websites, helping identify potential weaknesses and areas that require attention. This tool can be used as part of a proactive approach to website security, enabling site owners to enhance their defenses and protect against potential threats.
 
